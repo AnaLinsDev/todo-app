@@ -1,16 +1,18 @@
 # TODO App - Rocketseat
 
-* React
-* Typescript
+A simple To-Do List application that allows users to manage tasks with full CRUD operations (create, read, update, and delete). The app also lets users mark tasks as completed and track their progress by showing the number of completed tasks compared to the total number of tasks.
 
 
-## Passos:
+## Steps (DEV):
 
 ```
-  git clone https://github.com/AnaLinsDev/todo_react_ts.git
+  git clone https://github.com/AnaLinsDev/todo-app.git
 ```
 ```
-  npm start
+  npm install
+```
+```
+  npm run dev
 ```
 
 # Desafio 01 - Praticando os conceitos do react
