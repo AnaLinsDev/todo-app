@@ -1,4 +1,4 @@
-# TODO App - Rocketseat
+# TODO App - Rocketseat (React Challenge 01)
 
 A simple To-Do List application that allows users to manage tasks with full CRUD operations (create, read, update, and delete). The app also lets users mark tasks as completed and track their progress by showing the number of completed tasks compared to the total number of tasks.
 
@@ -14,8 +14,5 @@ A simple To-Do List application that allows users to manage tasks with full CRUD
 ```
   npm run dev
 ```
-
-# Desafio 01 - Praticando os conceitos do react
-
-![image](https://github.com/AnaLinsDev/todo_react_ts/assets/60307596/a93050a6-38d3-49c2-aeb0-0f72f78fa076)
-
+Demo
+<video src="https://github.com/user-attachments/assets/d3c52e8d-b9e2-48a2-af64-d1ff9380d271" width="300" controls></video>
